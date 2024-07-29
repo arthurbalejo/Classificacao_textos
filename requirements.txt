@@ -1,0 +1,6 @@
+pandas
+regex
+nltk
+scikit-learn
+matplotlib
+seaborn
