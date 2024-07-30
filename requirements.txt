@@ -4,3 +4,5 @@ nltk
 scikit-learn
 matplotlib
 seaborn
+textblob
+plotly_express
